@@ -9,3 +9,6 @@ for row in matrix:
     for element in row:
         print(element, end=' ')
     print()
+    
+    
+Print("bonjour")
